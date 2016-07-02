@@ -1,5 +1,5 @@
 # Crop
-![Alt text](/path/to/img.jpg)
+![Alt text](https://github.com/pikachu987/Crop/blob/master/exampleImages/full.png)
 Quick ImageCrop JavaScript
 
 ## Example
