@@ -3,10 +3,14 @@
 Quick ImageCrop JavaScript
 
 ## Example
-Create .html
-add jQuery.js
-add cropApi.js
 
+**Create .html**
+
+**add jQuery.js**
+
+**add cropApi.js**
+
+\'
 <input type="file" id="file">
 <div id="cropArea" style="height: 600px;"></div>
 /* cropArea need height */
@@ -24,6 +28,8 @@ $(document).ready(function(){
         CropApi.rotate();
     });
 });
+
+\'
 
 ## Author
 
