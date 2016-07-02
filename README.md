@@ -26,7 +26,7 @@ Quick ImageCrop JavaScript
 
 <script type="text/javascript">
 $(document).ready(function(){
-    //input, div, realWidth, realHeight, initRate, rateMinRate, lineColor, lineSize
+    //input, div, realWidth, realHeight, initRate, minRate, lineColor, cropDotSize
     CropApi.cropSet($('input[type="file"]'), $('#cropArea'), 670,308, 1, 1/4, '#000000', 10);
     
 
