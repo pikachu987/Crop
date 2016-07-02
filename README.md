@@ -13,8 +13,8 @@ Quick ImageCrop JavaScript
 ~~~~
 
 
-####<input type="file" id="file">
-####<div id="cropArea" style="height: 600px;"></div>
+<input type="file" id="file">
+<div id="cropArea" style="height: 600px;"></div>
 /* cropArea need height */
 
 $(document).ready(function(){
