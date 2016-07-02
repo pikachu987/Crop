@@ -10,7 +10,7 @@ Quick ImageCrop JavaScript
 
 **add cropApi.js**
 
-<pre><code>
+~~~~
 
 
 ####<input type="file" id="file">
@@ -31,7 +31,7 @@ $(document).ready(function(){
     });
 });
 
-</code></pre>
+~~~~
 
 ## Author
 
