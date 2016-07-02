@@ -1,5 +1,5 @@
 # Crop
-![Alt text](https://github.com/pikachu987/Crop/blob/master/exampleImages/full.png)
+
 Quick ImageCrop JavaScript
 
 ## Example
@@ -44,16 +44,16 @@ $(document).ready(function(){
 ##Image
 
 ###Full Image
-!(https://github.com/pikachu987/Crop/blob/master/exampleImages/full.png)
+![Alt text](https://github.com/pikachu987/Crop/blob/master/exampleImages/full.png)
 
 ###Resize Image
-!(https://github.com/pikachu987/Crop/blob/master/exampleImages/resize.png)
+![Alt text](https://github.com/pikachu987/Crop/blob/master/exampleImages/resize.png)
 
 ###rotate Image
-!(https://github.com/pikachu987/Crop/blob/master/exampleImages/rotate.png)
+![Alt text](https://github.com/pikachu987/Crop/blob/master/exampleImages/rotate.png)
 
 ###Crop Image
-!(https://github.com/pikachu987/Crop/blob/master/exampleImages/crop.png)
+![Alt text](https://github.com/pikachu987/Crop/blob/master/exampleImages/crop.png)
 
 
 
