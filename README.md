@@ -1,5 +1,5 @@
 # Crop
-
+![Alt text](/path/to/img.jpg)
 Quick ImageCrop JavaScript
 
 ## Example
