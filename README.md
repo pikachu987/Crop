@@ -1,5 +1,5 @@
 # Crop
-# JavaScript
+## JavaScript
 
 Quick ImageCrop JavaScript
 
