@@ -41,6 +41,22 @@ $(document).ready(function(){
 </script>
 ~~~~
 
+##Image
+
+###Full Image
+!https://github.com/pikachu987/Crop/blob/master/exampleImages/full.png
+
+###Resize Image
+!https://github.com/pikachu987/Crop/blob/master/exampleImages/resize.png
+
+###rotate Image
+!https://github.com/pikachu987/Crop/blob/master/exampleImages/rotate.png
+
+###Crop Image
+!https://github.com/pikachu987/Crop/blob/master/exampleImages/crop.png
+
+
+
 ## Author
 
 pikachu987, pikachu987@naver.com
