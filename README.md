@@ -10,7 +10,7 @@ Quick ImageCrop JavaScript
 
 **add cropApi.js**
 
-\'
+<pre><code>
 <input type="file" id="file">
 <div id="cropArea" style="height: 600px;"></div>
 /* cropArea need height */
@@ -29,7 +29,7 @@ $(document).ready(function(){
     });
 });
 
-\'
+</code></pre>
 
 ## Author
 
