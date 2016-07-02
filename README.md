@@ -14,9 +14,17 @@ Quick ImageCrop JavaScript
 
 
 <input type="file" id="file">
+<br>
 <div id="cropArea" style="height: 600px;"></div>
-/* cropArea need height */
+<!-- cropArea need height -->
+<br>
+<button>crop</button><br>
+<button>rotate</button>
+<br>
+<img>
 
+
+<script type="text/javascript">
 $(document).ready(function(){
     //input, div, realWidth, realHeight, initRate, rateMinRate, lineColor, lineSize
     CropApi.cropSet($('input[type="file"]'), $('#cropArea'), 670,308, 1, 1/4, '#000000', 10);
@@ -30,7 +38,7 @@ $(document).ready(function(){
         CropApi.rotate();
     });
 });
-
+</script>
 ~~~~
 
 ## Author
